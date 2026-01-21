@@ -1,0 +1,10 @@
+node_modules/
+session/
+.env
+*.session
+__pycache__/
+temp_downloads/
+cookies/
+media/
+audio.mp3
+a.mp3
