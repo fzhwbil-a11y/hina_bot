@@ -1,13 +1,13 @@
 {
-  "name": "nodejs",
+  "name": "hina-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "WhatsApp bot using Baileys",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "hina",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^22.13.11",
